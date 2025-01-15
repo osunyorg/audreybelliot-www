@@ -14,8 +14,6 @@ fr:
     events_categories: /agenda/:slug/
     projects: /projects/:year-:slug/
     projects_categories: /projects/:slug/
-    posts: /actualites/:year-:month-:day-:slug/
-    posts_categories: /actualites/:slug/
   taxonomies:
     administrator: administrators
     author: authors
