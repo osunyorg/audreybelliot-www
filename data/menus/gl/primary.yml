@@ -2,38 +2,38 @@
 title: Menu principal
 items:
 - title: Actualités
-  target: "/fr/actualites/"
+  target: "/gl/actualites/"
   kind: page
   new_tab: false
   children: []
   path: "/posts"
-  file: content/fr/posts/_index.html
+  file: content/gl/posts/_index.html
 - title: Agenda
-  target: "/fr/agenda/"
+  target: "/gl/agenda/"
   kind: page
   new_tab: false
   children: []
   path: "/events"
-  file: content/fr/events/_index.html
-- title: Proyectos
-  target: "/fr/projects/"
+  file: content/gl/events/_index.html
+- title: Projets
+  target: "/gl/projets/"
   kind: page
   new_tab: false
   children: []
   path: "/projects"
-  file: content/fr/projects/_index.html
-- title: Acerca de
-  target: "/fr/team/"
+  file: content/gl/projects/_index.html
+- title: Équipe
+  target: "/gl/equipe/"
   kind: page
   new_tab: false
   children: []
   path: "/persons"
-  file: content/fr/persons/_index.html
+  file: content/gl/persons/_index.html
 - title: Organisations
-  target: "/fr/organisations/"
+  target: "/gl/organisations/"
   kind: page
   new_tab: false
   children: []
   path: "/organizations"
-  file: content/fr/organizations/_index.html
+  file: content/gl/organizations/_index.html
 
