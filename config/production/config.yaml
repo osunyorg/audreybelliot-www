@@ -2,6 +2,11 @@
 
 baseURL: https://www.audreybelliot.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 18fe53a4-ac72-43b2-b9f5-b248e408b239
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: true
