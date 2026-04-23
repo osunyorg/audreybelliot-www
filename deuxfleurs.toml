@@ -13,3 +13,80 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/fr/plan-du-site/"
+to = "/plan-du-site/"
+
+[[redirects]]
+from = "/fr/projects/"
+to = "/projects/"
+
+[[redirects]]
+from = "/fr/actualites/"
+to = "/actualites/"
+
+[[redirects]]
+from = "/fr/team/equipe-editoriale/"
+to = "/team/equipe-editoriale/"
+
+[[redirects]]
+from = "/equipe/equipe-editoriale/"
+to = "/team/equipe-editoriale/"
+
+[[redirects]]
+from = "/fr/accessibilite/"
+to = "/accessibilite/"
+
+[[redirects]]
+from = "/fr/politique-de-confidentialite/"
+to = "/politique-de-confidentialite/"
+
+[[redirects]]
+from = "/fr/organisations/"
+to = "/organisations/"
+
+[[redirects]]
+from = "/fr/expositions/"
+to = "/expositions/"
+
+[[redirects]]
+from = "/fr/agenda/archives/"
+to = "/agenda/archives/"
+
+[[redirects]]
+from = "/projets/"
+to = "/projects/"
+
+[[redirects]]
+from = "/fr/team/"
+to = "/team/"
+
+[[redirects]]
+from = "/fr/actualites/2025-01-14-test/"
+to = "/actualites/2025-01-14-test/"
+
+[[redirects]]
+from = "/gl/agenda/archives/"
+to = "/gl/agenda/"
+
+[[redirects]]
+from = "/fr/agenda/"
+to = "/agenda/archives/"
+
+[[redirects]]
+from = "/fr/"
+to = "/"
+
+[[redirects]]
+from = "/fr/expositions/archives-expositions/"
+to = "/expositions/archives-expositions/"
+
+[[redirects]]
+from = "/fr/mentions-legales/"
+to = "/mentions-legales/"
+
+[[redirects]]
+from = "/equipe/"
+to = "/team/"
+
