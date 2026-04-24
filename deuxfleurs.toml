@@ -15,78 +15,78 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/fr/plan-du-site/index.html"
+from = "/fr/plan-du-site/"
 to = "/plan-du-site/"
 
 [[redirects]]
-from = "/fr/projects/index.html"
+from = "/fr/projects/"
 to = "/projects/"
 
 [[redirects]]
-from = "/fr/actualites/index.html"
+from = "/fr/actualites/"
 to = "/actualites/"
 
 [[redirects]]
-from = "/fr/team/equipe-editoriale/index.html"
+from = "/fr/team/equipe-editoriale/"
 to = "/team/equipe-editoriale/"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/index.html"
+from = "/equipe/equipe-editoriale/"
 to = "/team/equipe-editoriale/"
 
 [[redirects]]
-from = "/fr/accessibilite/index.html"
+from = "/fr/accessibilite/"
 to = "/accessibilite/"
 
 [[redirects]]
-from = "/fr/politique-de-confidentialite/index.html"
+from = "/fr/politique-de-confidentialite/"
 to = "/politique-de-confidentialite/"
 
 [[redirects]]
-from = "/fr/organisations/index.html"
+from = "/fr/organisations/"
 to = "/organisations/"
 
 [[redirects]]
-from = "/fr/expositions/index.html"
+from = "/fr/expositions/"
 to = "/expositions/"
 
 [[redirects]]
-from = "/fr/agenda/archives/index.html"
+from = "/fr/agenda/archives/"
 to = "/agenda/archives/"
 
 [[redirects]]
-from = "/projets/index.html"
+from = "/projets/"
 to = "/projects/"
 
 [[redirects]]
-from = "/fr/team/index.html"
+from = "/fr/team/"
 to = "/team/"
 
 [[redirects]]
-from = "/fr/actualites/2025-01-14-test/index.html"
+from = "/fr/actualites/2025-01-14-test/"
 to = "/actualites/2025-01-14-test/"
 
 [[redirects]]
-from = "/gl/agenda/archives/index.html"
+from = "/gl/agenda/archives/"
 to = "/gl/agenda/"
 
 [[redirects]]
-from = "/fr/agenda/index.html"
+from = "/fr/agenda/"
 to = "/agenda/archives/"
 
 [[redirects]]
-from = "/fr/index.html"
+from = "/fr/"
 to = "/"
 
 [[redirects]]
-from = "/fr/expositions/archives-expositions/index.html"
+from = "/fr/expositions/archives-expositions/"
 to = "/expositions/archives-expositions/"
 
 [[redirects]]
-from = "/fr/mentions-legales/index.html"
+from = "/fr/mentions-legales/"
 to = "/mentions-legales/"
 
 [[redirects]]
-from = "/equipe/index.html"
+from = "/equipe/"
 to = "/team/"
 
