@@ -14,3 +14,79 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/fr/plan-du-site/index.html"
+to = "/plan-du-site/"
+
+[[redirects]]
+from = "/fr/projects/index.html"
+to = "/projects/"
+
+[[redirects]]
+from = "/fr/actualites/index.html"
+to = "/actualites/"
+
+[[redirects]]
+from = "/fr/team/equipe-editoriale/index.html"
+to = "/team/equipe-editoriale/"
+
+[[redirects]]
+from = "/equipe/equipe-editoriale/index.html"
+to = "/team/equipe-editoriale/"
+
+[[redirects]]
+from = "/fr/accessibilite/index.html"
+to = "/accessibilite/"
+
+[[redirects]]
+from = "/fr/politique-de-confidentialite/index.html"
+to = "/politique-de-confidentialite/"
+
+[[redirects]]
+from = "/fr/organisations/index.html"
+to = "/organisations/"
+
+[[redirects]]
+from = "/fr/expositions/index.html"
+to = "/expositions/"
+
+[[redirects]]
+from = "/fr/agenda/archives/index.html"
+to = "/agenda/archives/"
+
+[[redirects]]
+from = "/projets/index.html"
+to = "/projects/"
+
+[[redirects]]
+from = "/fr/team/index.html"
+to = "/team/"
+
+[[redirects]]
+from = "/fr/actualites/2025-01-14-test/index.html"
+to = "/actualites/2025-01-14-test/"
+
+[[redirects]]
+from = "/gl/agenda/archives/index.html"
+to = "/gl/agenda/"
+
+[[redirects]]
+from = "/fr/agenda/index.html"
+to = "/agenda/archives/"
+
+[[redirects]]
+from = "/fr/index.html"
+to = "/"
+
+[[redirects]]
+from = "/fr/expositions/archives-expositions/index.html"
+to = "/expositions/archives-expositions/"
+
+[[redirects]]
+from = "/fr/mentions-legales/index.html"
+to = "/mentions-legales/"
+
+[[redirects]]
+from = "/equipe/index.html"
+to = "/team/"
+
